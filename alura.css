@@ -19,6 +19,12 @@ body{
     
 }
 
+.logo-secundario {
+    width: 150px;
+    right:10px;
+    align-content: right;
+}
+
 .principal{
     text-align: center;
     color: white;
