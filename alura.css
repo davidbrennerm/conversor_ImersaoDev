@@ -1,12 +1,14 @@
 body{
     background-image: url(https://exame.com/wp-content/uploads/2016/10/thinkstockphotos-489956624.jpg);
     background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
     font-family: monospace;
     min-height: 400px;
-    text-align: center;
+
 }
 
-img{
+.logo-principal {
     width: 50px;
     position: absolute;
     right: 5%;
@@ -16,12 +18,19 @@ img{
 
     
 }
-.primeiro, h3{
+
+.principal{
+    text-align: center;
     color: white;
     font-size: 20px;
+    height: 100vh;
 }
 
-h3{
-    color: white;
-    font-size: 15px;
+h1{
+    margin: 0 0 5px;
+
+}
+
+p{
+    margin-top: 5px
 }
