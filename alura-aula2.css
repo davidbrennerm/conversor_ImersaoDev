@@ -1,0 +1,42 @@
+body{
+    font-family: "Roboto Mono", monospace;
+    background: #151515;
+    text-align: justify;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.caixa{
+    width: 400px;
+    background: #131417a6;
+    padding: 10px;
+    position: relative;
+    border-radius: 15px 0 15px 0;
+    border: 2px solid Burlywood;
+  }
+
+.bloco-principal{
+    align-items: center; /*alinhamento de itens*/
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase; /*texto em letra maiuscula*/
+    font-size: 22px; /*tamanho real da fonte */
+    font-weight: 600; /*fonte forte*/
+    text-shadow: -1px -1px 1px white, 1px 1px 1px gold;
+}
+
+.logo-secundario {
+    width: 140px;
+    position: absolute;
+    padding: 12%;
+}
+
+.logo-alura { /*logo alura azul*/
+    width: 50px; /* logo no canto superior*/
+    position: absolute;
+    right: 5%;
+    top: 10px;
+    float: right;
+    display: inline;
+    padding: 3%;
+}
