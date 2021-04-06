@@ -16,4 +16,4 @@ Este projeto foi executado durante as aulas da [#ImersaoDev](https://imersao.dev
 
 ## 🖼️ Resultado
 
-![](https://github.com/davidbrennerm/conversor_ImersaoDev/blob/main/Conversor%20de%20Moedas%20-%20img/Projeto-aula-1.1.png) ![](https://github.com/davidbrennerm/conversor_ImersaoDev/blob/main/Conversor%20de%20Moedas%20-%20img/Projeto-aula-1.png)
+![](https://github.com/davidbrennerm/conversor_ImersaoDev/blob/main/Conversor%20de%20Moedas%20-%20img/Projeto-aula-1.png)
